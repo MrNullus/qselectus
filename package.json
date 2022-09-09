@@ -2,7 +2,7 @@
   "name": "qselectus",
   "version": "1.0.0",
   "description": "Is project is focused to resolve a problemming from the multirefences elements HTML to JavaScript, is creation resolves is problem.",
-  "main": "script.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
