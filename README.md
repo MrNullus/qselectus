@@ -54,5 +54,3 @@ Este projeto está licenciado sob a licença MIT. Consulte o arquivo [LICENSE](L
 ---
 
 Esperamos que o **QSelectus** facilite a seleção e manipulação de elementos da interface em seus projetos. Se você tiver alguma dúvida ou precisar de assistência, não hesite em entrar em contato.
-
-**Equipe do QSelectus**
